@@ -9,7 +9,7 @@
       "required" : [ ],
       "pii" : [ ],
       "elementRangeIndex" : [ ],
-      "rangeIndex" : [ "quantity" ],
+      "rangeIndex" : [ ],
       "wordLexicon" : [ ],
       "properties" : {
         "id" : {
