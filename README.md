@@ -1,5 +1,11 @@
 # explorer-concurrent-users
 
+To setup: ./setup.sh
+
+To teardown: ./teardown.sh
+
+Standalone tasks:
+
 1) Install data-hub and add entities:
 ./gradlew mlDeploy
 
