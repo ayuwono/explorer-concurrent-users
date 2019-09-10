@@ -32,9 +32,9 @@
       "stepDefinitionName" : "default-ingestion",
       "stepDefinitionType" : "INGESTION",
       "fileLocations" : {
-        "inputFilePath" : "/Users/ayuwono/dhf-test/input/advantage",
+        "inputFilePath" : "./input/advantage",
         "inputFileType" : "json",
-        "outputURIReplacement" : "",
+        "outputURIReplacement" : "./input/advantage,'advantage'",
         "separator" : ","
       }
     },
